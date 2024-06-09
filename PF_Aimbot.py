@@ -12,7 +12,7 @@
 # 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # 
-Monitor_Size = [2560, 1440] # Set This to you Monitor Size [Width, Height] in pixels. 
+Monitor_Size = [1920, 1080] # Set This to you Monitor Size [Width, Height] in pixels. 
 # 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import numpy as np
